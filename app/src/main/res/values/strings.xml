@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="enterWeight">Enter Your Weight(in Kg)</string>
+    <string name="enterHeight">Enter Your Height(in meter)</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="welcom">Welcom We Wish You have good Results</string>
+
+
+    <string name="under">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese !</string>
+</resources>
